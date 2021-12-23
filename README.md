@@ -6,7 +6,7 @@ This repository contains resources for the Admarket brand such as logos, icons, 
 
 **Horizontal**
 
-![Admarket Logo Horizontal](https://raw.githubusercontent.com/admarket-tv/brand/main/logos/logo-horizontal-750px.png "Admarket Logo Horizontal")
+![Admarket Logo Horizontal](/logos/logo-horizontal.png "Admarket Logo Horizontal")
 
 **Vertical**
 
