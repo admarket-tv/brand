@@ -16,43 +16,26 @@ This repository contains resources for the Admarket brand such as logos, icons, 
 
 ## Icons
 
-**Rounded**
+![Admarket Product Icon](/icons/1024x1024.png "Admarket Product Icon")
+![Admarket Product Icon Background Dark](/icons/1024x1024-background-dark.png "Admarket Product Icon Background Dark")
+![Admarket Product Icon Gray](/icons/1024x1024-gray.png "Admarket Product Icon Gray")
 
-![Admarket Product Icon Rounded 256](/icons/256x256.png "Admarket Product Icon Rounded 256")
-![Admarket Product Icon Rounded 128](/icons/128x128.png "Admarket Product Icon Rounded 128")
-![Admarket Product Icon Rounded 64](/icons/64x64.png "Admarket Product Icon Rounded 64")
-![Admarket Product Icon Rounded 32](/icons/32x32.png "Admarket Product Icon Rounded 32")
-![Admarket Product Icon Rounded 16](/icons/16x16.png "Admarket Product Icon Rounded 16")
-
-**Square**
-
-![Admarket Product Icon Square 256](/icons/square-256x256.png "Admarket Product Icon Square 256")
-![Admarket Product Icon Square 128](/icons/square-128x128.png "Admarket Product Icon Square 128")
-![Admarket Product Icon Square 64](/icons/square-64x64.png "Admarket Product Icon Square 64")
-![Admarket Product Icon Square 32](/icons/square-32x32.png "Admarket Product Icon Square 32")
-![Admarket Product Icon Square 16](/icons/square-16x16.png "Admarket Product Icon Square 16")
-
-[View more sizes](/icons)
 
 ## Color Palettes
 
 ### Branding
 
-Primary Blue  
-![Admarket Primary Blue](/brand-colors/primary-blue.png "Admarket Primary Blue")   
- `#175DDC`
+Primary Purple  
+![Admarket Primary Blue](/brand-colors/primary-purple.png "Admarket Primary Purple")   
+ `#E72A86`
  
-Secondary Medium Blue  
-![Admarket Secondary Medium Blue](/brand-colors/secondary-blue.png "Admarket Secondary Medium Blue")      
-`#1252A3`
- 
- Secondary Dark Blue  
-![Admarket Secondary Dark Blue](/brand-colors/secondary-dark-blue.png "Admarket Secondary Dark Blue")      
-`#1A3B66`
+ Secondary Cyan  
+![Admarket Secondary Dark Blue](/brand-colors/secondary-cyan.png "Admarket Secondary Cyan")      
+`#4EA8DF`
 
-Accent Green  
-![Admarket Accent Green](/brand-colors/accent-green.png "Admarket Accent Green")      
-`#26FF75`
+Accent Magenta  
+![Admarket Accent Green](/brand-colors/accent-magenta.png "Admarket Accent Magenta")      
+`#4E257C`
 
 
 ### Auxiliary
@@ -65,8 +48,8 @@ Accent Green
 
 ## Fonts
 
-- [Open Sans](https://fonts.google.com/specimen/Open+Sans)
-- [Font Awesome Icons](https://fontawesome.com/v4.7.0/)
+- [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- [MADE Waffle Soft](https://www.dafont.com/made-waffle-soft.font)
 
 ## Other Things To Know
 
