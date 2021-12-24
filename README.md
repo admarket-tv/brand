@@ -20,6 +20,7 @@ This repository contains resources for the Admarket brand such as logos, icons, 
 ![Admarket Product Icon Background Dark](/icons/1024x1024-background-dark.png "Admarket Product Icon Background Dark")
 ![Admarket Product Icon Gray](/icons/1024x1024-gray.png "Admarket Product Icon Gray")
 
+[View more colors and sizes](/icons)
 
 ## Color Palettes
 
