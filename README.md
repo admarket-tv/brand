@@ -28,15 +28,15 @@ This repository contains resources for the Admarket brand such as logos, icons, 
 
 Primary Purple  
 ![Admarket Primary Blue](/brand-colors/primary-purple.png "Admarket Primary Purple")   
- `#E72A86`
+ `#4A148C`
  
  Secondary Cyan  
 ![Admarket Secondary Dark Blue](/brand-colors/secondary-cyan.png "Admarket Secondary Cyan")      
-`#4EA8DF`
+`#00B0FF`
 
 Accent Magenta  
 ![Admarket Accent Green](/brand-colors/accent-magenta.png "Admarket Accent Magenta")      
-`#4E257C`
+`#F23891`
 
 
 ### Auxiliary
